@@ -1,0 +1,23 @@
+body {
+  display: block;
+  margin: 5px;
+  background-color: rgb(0, 255, 204);
+}
+
+.imagen {
+  margin: 2px;
+}
+.boton {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2px;
+ 
+}
+#f-5 {
+    margin: 20px;
+    padding: 20px;
+    background: rgb(47, 210, 255);
+}
